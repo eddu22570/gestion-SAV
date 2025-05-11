@@ -50,8 +50,6 @@ cd gestion-sav
 
 <?php define('DB_HOST', 'localhost'); define('DB_NAME', 'gestion_sav'); define('DB_USER', 'utilisateur'); define('DB_PASS', 'motdepasse'); ?>
 
-text
-
 ## 📚 Documentation
 
 - [À propos du logiciel](a_propos.php)
